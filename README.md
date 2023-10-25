@@ -1,8 +1,9 @@
-# Olá, eu sou Miguel Ozana! 👋
+# Hi, my name is Miguel 👋
 
-Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com experiência em várias linguagens de programação e tecnologias relacionadas.
+Full-stack developer. Love guitar, metal and MMORPG
 
-
+## Contact
+- Email: miguelozana@gmail.com
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=miguel-dfk666&show_icons=true&count_private=true)
 
