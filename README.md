@@ -11,4 +11,4 @@ Sou um(a) desenvolvedor(a) apaixonado(a) por tecnologia, com experiência em vá
 - **Outras Ferramentas:** Git
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=miguel-dfk666&show_icons=true&count_private=true)
