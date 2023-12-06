@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?username=miguel-dfk666&color=006bed)
 
 <h3>Sobre mim</h3>
 
@@ -45,4 +45,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-MiguelOzana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-ozana-951855231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/miguel-ozana-951855231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-miguelozana@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguelozana@gmail.com)](mailto:miguelozana@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/miguel-dfk666)
+[![GitHub](https://img.shields.io/github/followers/miguel-dfk666?label=follow&style=social)](https://github.com/miguel-dfk666)
