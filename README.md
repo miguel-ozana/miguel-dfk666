@@ -11,6 +11,10 @@
 **Aplicações e dados**
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=selenium)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
