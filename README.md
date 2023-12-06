@@ -23,7 +23,6 @@
 **Utilidades**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 
@@ -38,8 +37,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/miguel-dfk666" title="Perfil do Miguel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-dfk666&theme=dracula&show_icons=true" />
 </a>
 
 <h3>Onde me encontrar</h3>
